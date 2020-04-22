@@ -1,2 +1,0 @@
-# Module 3
-In this module, we will become familiar with core concepts behind Ruby on Rails, such as CoC (Convention Over Configuration) and MVC (Model-View-Controller). <p>We will then learn about consuming JSON API with HTTParty, a Ruby gem. We will then integrate this ability to consume JSON API to serve as the data layer for our Rails application.</p>Finally, to conclude this module we will deploy the application to Heroku and write a unit test that will verify the desired functionality.
